@@ -1,0 +1,9 @@
+This is a git setup on Linux
+
+Lagre en fil.
+1. Lag filen og lagre den. 
+2. git add test.c                   // Legger til fil i commit. 
+3. git commit -m "My first commit"  // Lagrer commiten med tekst. 
+4. git push origin master  	    // Laster opp filen til GitHub.
+
+https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu-14.04/ 
